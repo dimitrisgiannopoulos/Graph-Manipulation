@@ -1,6 +1,4 @@
-# A simple program for finding the shortest path between two nodes of the GRnet network
-# The GRnet graph in gml format can be found in http://www.topology-zoo.org/files/Grnet.gml
-# GRnet's topology can be seen in http://www.topology-zoo.org/maps/Grnet.jpg
+# A simple program for creating a Barabasi Albert graph
 
 import networkx as nx   # For Graph manipulation and algorithm execution
 import pylab            # For Graph plotting
